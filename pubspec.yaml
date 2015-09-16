@@ -1,0 +1,14 @@
+name: dict
+description: A more advanced implementation of Dart's native Map.
+version: 0.1.9
+author: Gil Mendes <gilmendes@designture.net>
+homepage: https://designture.net
+
+environment:
+  sdk: '>=1.12.0 <2.0.0'
+
+dependencies:
+  option: '>=1.1.0 <2.0.0'
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
